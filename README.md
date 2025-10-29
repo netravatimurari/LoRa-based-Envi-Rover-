@@ -7,7 +7,7 @@ An environment monitoring rover built using sensors and microcontroller for real
 
 
 
-The Envi Rover is LoRa based, long range, remotely operated robotic system designed to monitor environmental parameters such as temperature, humidity, and air quality of disaster zones, agricultural, industrial environments and smart cities. It uses LoRa communication to transmit data wirelessly over long distances without the usage of internet.
+The Envi Rover is LoRa based, long range, remotely operated robotic system designed to monitor environmental parameters such as temperature, humidity, darkness, gas leakage and air quality of disaster zones, agricultural, industrial environments and smart cities. It uses LoRa communication to transmit data wirelessly over long distances without the usage of internet.
 
 ---
 

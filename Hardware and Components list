@@ -1,0 +1,11 @@
+- ESP32 microcontroller 
+- 2 LoRa SX1278 module
+- Motor Driver MDD10A
+- DHT11 Sensor
+- MQ135 Air quality sensor
+- LDR sensor
+- ultrasonic sensor 
+- servo motor 
+- Battery 12V
+- HW-628 DC-DC Buck Converter
+- DC motor and chassis 

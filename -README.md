@@ -38,6 +38,12 @@ The Envi Rover is LoRa based, long range, remotely operated robotic system desig
 
 ---
 
+## 💡 Circuit Diagram 
+
+![Image](https://github.com/user-attachments/assets/8f159abb-762f-4225-a17c-5e137c1f828f)
+
+---
+
 ## 🔧 Working Principle
 
 The sensors collect environmental data, which is processed by the microcontroller and transmitted through the LoRa module to a remote receiver. The controller side displays the collected data in real-time.

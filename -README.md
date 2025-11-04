@@ -65,6 +65,13 @@ Blynk web dashboard showing real-time sensor data visualization
 
 ---
 
+## 📲Blynk Dashboard (Mobile)
+Blynk mobile app screenshots displaying live readings.
+
+![Image](https://github.com/user-attachments/assets/822de1e9-215b-4cf6-bf8b-d491199d3237)
+
+---
+
 ## 💻 Code
 All source codes are available in the repository (Rover side and Controller side).
 

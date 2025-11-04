@@ -70,6 +70,8 @@ Blynk mobile app screenshots displaying live readings.
 
 ![Image](https://github.com/user-attachments/assets/822de1e9-215b-4cf6-bf8b-d491199d3237)
 
+![Image](https://github.com/user-attachments/assets/d07c990a-73a4-4dd9-8ad7-7158ac2cff1d)
+
 ---
 
 ## 💻 Code

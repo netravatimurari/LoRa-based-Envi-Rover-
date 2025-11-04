@@ -61,7 +61,9 @@ The sensors collect environmental data, which is processed by the microcontrolle
 ## 🌐 Blynk Dashboard (Web)
 Blynk web dashboard showing real-time sensor data visualization
 
-![Image](https://github.com/user-attachments/assets/46461b6a-56ef-457d-9879-705ca5b303fe
+![Image](https://github.com/user-attachments/assets/fd29ba76-5182-47a6-b681-08b8915a4d61)
+
+---
 
 ## 💻 Code
 All source codes are available in the repository (Rover side and Controller side).

@@ -40,7 +40,7 @@ The Envi Rover is LoRa based, long range, remotely operated robotic system desig
 
 ## 💡 Circuit Diagram 
 
-![Image](https://github.com/user-attachments/assets/8f159abb-762f-4225-a17c-5e137c1f828f)
+![Image](https://github.com/user-attachments/assets/52f59410-6baa-4445-81b2-325aa9cd5f20)
 
 ---
 

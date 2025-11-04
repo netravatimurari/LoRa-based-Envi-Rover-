@@ -1,4 +1,4 @@
-- ESP32 microcontroller 
+- ESP32 microcontroller board
 - 2 LoRa SX1278 module
 - Motor Driver MDD10A
 - DHT11 Sensor
@@ -9,3 +9,6 @@
 - Battery 12V
 - HW-628 DC-DC Buck Converter
 - DC motor and chassis 
+- Arduino IDE
+- Blynk for real-time data visualization
+  System & display code for rover control

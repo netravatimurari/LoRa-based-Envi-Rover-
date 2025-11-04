@@ -11,12 +11,12 @@ It integrates ESP32 with various sensors (temperature, humidity, illumination, a
 
 ## 💻 Project Overview
 
-
 The Envi Rover is LoRa based, long range, remotely operated robotic system designed to monitor environmental parameters such as temperature, humidity, darkness, gas leakage and air quality of disaster zones, agricultural, industrial environments and smart cities. It uses LoRa communication to transmit data wirelessly over long distances without the usage of internet.
 
 ---
 
 ## ⚙️ Features
+
 - Remote Control: Move the rover using W, A, S, D keys; X to stop.
 - Real-Time Data Monitoring: Temperature, humidity, gas levels, and illumination are continuously monitored and transmitted.
 - Long-Range Communication: LoRa module enables data transmission over large distances.
@@ -27,6 +27,7 @@ The Envi Rover is LoRa based, long range, remotely operated robotic system desig
 ---
 
 ## 🧩 Components Used
+
 - ESP32 (Microcontroller)  
 - LoRa SX1278 module  
 - DHT22 sensor (Temperature & Humidity)  
@@ -38,11 +39,13 @@ The Envi Rover is LoRa based, long range, remotely operated robotic system desig
 ---
 
 ## 🔧 Working Principle
+
 The sensors collect environmental data, which is processed by the microcontroller and transmitted through the LoRa module to a remote receiver. The controller side displays the collected data in real-time.
 
 ---
 
 ## ✔️ How it Works
+
 - The rover continuously collects data from sensors and transmits it via LoRa to the controller.
 - Users can send movement commands (W, A, S, D) to the rover, and X stops it.
 - Ultrasonic sensor with servo rotates automatically to detect obstacles and avoid collisions.
@@ -52,6 +55,7 @@ The sensors collect environmental data, which is processed by the microcontrolle
 ---
 
 ## 🧭 System Flowchart
+
 Below is the system flow for data transmission and control between the Rover and Controller.
 
 <img width="1224" height="816" alt="Image" src="https://github.com/user-attachments/assets/9110eba2-df36-4a99-846d-80a49bcfa5e8" />
@@ -59,6 +63,7 @@ Below is the system flow for data transmission and control between the Rover and
 ---
 
 ## 📊Sensor Readings
+
 Example of temperature, humidity, and gas concentration readings from the rover.
 
 ![Image](https://github.com/user-attachments/assets/8f159abb-762f-4225-a17c-5e137c1f828f)
@@ -66,6 +71,7 @@ Example of temperature, humidity, and gas concentration readings from the rover.
 ---
 
 ## 🌐 Blynk Dashboard (Web)
+
 Blynk web dashboard showing real-time sensor data visualization
 
 ![Image](https://github.com/user-attachments/assets/fd29ba76-5182-47a6-b681-08b8915a4d61)
@@ -73,6 +79,7 @@ Blynk web dashboard showing real-time sensor data visualization
 ---
 
 ## 📲Blynk Dashboard (Mobile)
+
 Blynk mobile app screenshots displaying live readings.
 
 ![Image](https://github.com/user-attachments/assets/822de1e9-215b-4cf6-bf8b-d491199d3237)
@@ -82,12 +89,23 @@ Blynk mobile app screenshots displaying live readings.
 ---
 
 ## 💻 Code
+
 All source codes are available in the repository (Rover side and Controller side).
 
 ---
 
+## ☑️Use Cases:
+
+- Agriculture: Real-time environmental monitoring and surveys.
+- Disaster Management: Monitoring air quality, temperature, and obstacles in dangerous areas.
+- Industrial Environments: Detecting unsafe conditions or gas leaks remotely.
+- Smart Cities: Integration into city-wide environmental monitoring networks.
+- Scientific Research: Collecting field data in remote or difficult terrains.
+
+---
+
 ## 🧑‍💻 Authors
-Developed by
+
 Netravati Murari,
 [teammate 1] Narendra Giriyappanavar
 [teammate 2] Harish Patil
@@ -96,6 +114,7 @@ Netravati Murari,
 ---
 
 ## 📫 Contact
+
 If you have any queries, feel free to reach out at:  
 📧 netrajoy128@gmail.com
 📧 hbpatil275@gmail.com
@@ -105,6 +124,7 @@ If you have any queries, feel free to reach out at:
 ---
 
 ## 🔗links
+
 https://www.espressif.com/en/products/socs/esp32
 https://www.semtech.com/products/wireless-rf/lora-transceivers
 https://blynk.io/

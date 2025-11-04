@@ -16,6 +16,13 @@ The Envi Rover is LoRa based, long range, remotely operated robotic system desig
 
 ---
 
+## 🧭 System Flowchart
+Below is the system flow for data transmission and control between the Rover and Controller.
+
+<img width="1224" height="816" alt="Image" src="https://github.com/user-attachments/assets/9110eba2-df36-4a99-846d-80a49bcfa5e8" />
+
+---
+
 ## ⚙️ Features
 - Remote Control: Move the rover using W, A, S, D keys; X to stop.
 - Real-Time Data Monitoring: Temperature, humidity, gas levels, and illumination are continuously monitored and transmitted.

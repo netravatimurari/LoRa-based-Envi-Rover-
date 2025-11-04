@@ -1,4 +1,4 @@
-# LoRa-based-Envi-Rover-
+ # LoRa-based-Envi-Rover-
 
 ![Image](https://github.com/user-attachments/assets/ed85a1c0-3f86-4fff-8d42-30003dea8493)
 
@@ -13,13 +13,6 @@ It integrates ESP32 with various sensors (temperature, humidity, illumination, a
 
 
 The Envi Rover is LoRa based, long range, remotely operated robotic system designed to monitor environmental parameters such as temperature, humidity, darkness, gas leakage and air quality of disaster zones, agricultural, industrial environments and smart cities. It uses LoRa communication to transmit data wirelessly over long distances without the usage of internet.
-
----
-
-## 🧭 System Flowchart
-Below is the system flow for data transmission and control between the Rover and Controller.
-
-<img width="1224" height="816" alt="Image" src="https://github.com/user-attachments/assets/9110eba2-df36-4a99-846d-80a49bcfa5e8" />
 
 ---
 
@@ -47,7 +40,7 @@ Below is the system flow for data transmission and control between the Rover and
 ## 🔧 Working Principle
 The sensors collect environmental data, which is processed by the microcontroller and transmitted through the LoRa module to a remote receiver. The controller side displays the collected data in real-time.
 
-
+---
 
 ## ✔️ How it Works
 - The rover continuously collects data from sensors and transmits it via LoRa to the controller.
@@ -55,6 +48,20 @@ The sensors collect environmental data, which is processed by the microcontrolle
 - Ultrasonic sensor with servo rotates automatically to detect obstacles and avoid collisions.
 - Blynk integration allows users to view real-time data on mobile or PC dashboards.
 - Data can be accessed anytime, enabling remote monitoring even in inaccessible locations.
+
+---
+
+## 🧭 System Flowchart
+Below is the system flow for data transmission and control between the Rover and Controller.
+
+<img width="1224" height="816" alt="Image" src="https://github.com/user-attachments/assets/9110eba2-df36-4a99-846d-80a49bcfa5e8" />
+
+---
+
+## 📊Sensor Readings
+Example of temperature, humidity, and gas concentration readings from the rover.
+
+![Image](https://github.com/user-attachments/assets/8f159abb-762f-4225-a17c-5e137c1f828f)
 
 ---
 

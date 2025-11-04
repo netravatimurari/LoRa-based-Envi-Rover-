@@ -1,4 +1,8 @@
 # LoRa-based-Envi-Rover-
+
+![Image](https://github.com/user-attachments/assets/ed85a1c0-3f86-4fff-8d42-30003dea8493)
+
+
 An environment monitoring rover is remotely operated robotic system built using Lora module, sensors and microcontroller for real-time data collection via C++ programming.
 
 It integrates ESP32 with various sensors (temperature, humidity, illumination, and gas detection) and a LoRa communication module to transmit data over long distances. Users can access the data via Blynk on mobile or PC.

@@ -132,3 +132,5 @@ If you have any queries, feel free to reach out at:
 ## 🔗links
 
 https://www.espressif.com/en/products/socs/esp32
+https://www.semtech.com/products/wireless-rf/lora-transceivers
+https://blynk.io/
